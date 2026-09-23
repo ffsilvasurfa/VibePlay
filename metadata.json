@@ -1,0 +1,6 @@
+{
+  "name": "Carpet Patrol - Robotic Vacuum Simulator",
+  "description": "Interactive carpet grid simulation with real-time dirt drawing, obstacle avoidance navigation, and step-by-step robotic vacuum state machine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
